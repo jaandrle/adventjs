@@ -27,4 +27,4 @@ Ah, **and do not mutate the original array!**
 
 ## 📜 Results
 
-![adventjs](https://user-images.githubusercontent.com/78381898/206300738-3b96ea29-a063-4853-a496-0b7c02270b33.png)
+![adventjs](https://user-images.githubusercontent.com/8017233/206419650-150d8527-1a58-4728-8168-ef921c69b6ca.png)
