@@ -24,4 +24,4 @@ distributeGifts(packOfGifts, reindeers) // 2
 
 ## 📜 Results
 
-![adventjs](https://user-images.githubusercontent.com/78381898/206296540-2c3988f9-caea-495b-960b-3521483275e3.png)
+![adventjs](https://user-images.githubusercontent.com/8017233/206419118-9ce49a6f-c4c9-45a8-967d-097ef1d2ed34.png)
