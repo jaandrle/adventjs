@@ -29,4 +29,4 @@ countHours(year, holidays) // 2 days -> 4 extra hours in the year
 
 ## 📜 Results
 
-![adventjs](https://user-images.githubusercontent.com/78381898/206299021-dc6c8b0b-3b94-4eb6-ae2f-555568b3540a.png)
+![adventjs](https://user-images.githubusercontent.com/8017233/206419362-2f37de4f-eedd-49fd-b492-7ed6d4871c1b.png)
